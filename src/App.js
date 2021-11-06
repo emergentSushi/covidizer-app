@@ -1,50 +1,39 @@
-import {
-  ApolloClient,
-  InMemoryCache,
-  ApolloProvider
-} from "@apollo/client";
+import { ApolloClient, InMemoryCache, ApolloProvider } from "@apollo/client";
 import React from "react";
-import {
-  BrowserRouter as Router,
-  Route,
-  Routes,
-  Link
-} from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
+import CssBaseline from "@mui/material/CssBaseline";
 
-import './App.css';
-import DebugData from './Debug';
-import DisplayData from "./DisplayData";
+import "./App.css";
+import Dash from "./Dash";
+import DebugData from "./Debug";
 
 const client = new ApolloClient({
-  uri: 'http://localhost:5000/graphql',
-  cache: new InMemoryCache()
+	uri: "http://localhost/graphql",
+	cache: new InMemoryCache(),
 });
 
 function App() {
-  return (
-    <ApolloProvider client={client}>
-      <Router>
-        <div className="App">
-          <nav>
-            <ul>
-              <li>
-                <Link to="/">Home</Link>
-              </li>
-              <li>
-                <Link to="/debug">Debug</Link>
-              </li>
-            </ul>
-          </nav>
-          <Routes>
-            <Route path="/" element={<DisplayData />}>
-            </Route>
-            <Route path="/debug" element={<DebugData />}>
-            </Route>
-          </Routes>
-        </div>
-      </Router>
-    </ApolloProvider>
-  );
+	return (
+		<ApolloProvider client={client}>
+			<CssBaseline />
+			<Router>
+				<div className="App">
+					<nav className="App-header">
+						<div>
+							<Link to="/">Home</Link>
+						</div>
+						<div>
+							<Link to="/debug">Debug</Link>
+						</div>
+					</nav>
+					<Routes>
+						<Route path="/" element={<Dash />}></Route>
+						<Route path="/debug" element={<DebugData />}></Route>
+					</Routes>
+				</div>
+			</Router>
+		</ApolloProvider>
+	);
 }
 
 export default App;
