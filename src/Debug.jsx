@@ -37,7 +37,7 @@ query {
   }
 `;
 
-const DebugData = (props) => {
+const DebugData = () => {
     const series = useQuery(allSeries);
     const indicators = useQuery(allIndicators);
     const subseries = useQuery(allSubSeries);
