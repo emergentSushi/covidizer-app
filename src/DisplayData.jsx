@@ -18,7 +18,7 @@ const eventsQuery = gql`
 	}
 `;
 
-const DisplayData = ({ indicator, series, subSeries, index, close }) => {
+const DisplayData = ({ indicator, series, subSeries, close }) => {
 	const { data } = useQuery(eventsQuery, {
 		variables: { indicatorId: indicator, seriesId: series, subSeriesId: subSeries },
 	});
