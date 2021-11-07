@@ -4,8 +4,6 @@ import { useDrag } from "react-dnd";
 import { Card, CardContent, IconButton, CardHeader } from "@mui/material/";
 import Delete from "@mui/icons-material/Delete";
 
-import "./Dashlet.css";
-
 const eventsQuery = gql`
 	query getEvents($indicatorId: Int!, $seriesId: Int!, $subSeriesId: Int!, $startDate: Date!, $endDate: Date!) {
 		allEvents(

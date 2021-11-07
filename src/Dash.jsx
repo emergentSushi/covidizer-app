@@ -1,5 +1,5 @@
 import DisplayData from "./DisplayData";
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 
 import { useQuery, gql } from "@apollo/client";
 import { Grid, InputLabel, MenuItem, Select, Card, CardContent, Button, FormControl } from "@mui/material/";
@@ -52,11 +52,12 @@ const Dash = () => {
 	const [activeSubSeries, setSubSeries] = useState(0);
 	const [dashLets, setDashlets] = useState(new Array(DASHBOARD_MAX_SIZE).fill(null));
 
-	const [startDate, setStartDate] = useState(moment('2020-03-01'));
-	const [endDate, setEndDate] = useState(moment('2021-02-15'));
+	const [startDate, setStartDate] = useState(moment("2020-03-01"));
+	const [endDate, setEndDate] = useState(moment("2021-02-15"));
 
 	const onCloseDashlet = (index) => {
-		setDashlets(dashLets.filter((_, i) => index !== i));
+		dashLets[index] = null;
+		setDashlets([...dashLets]);
 	};
 
 	const createTitle = (createdDashLet, indDicators, series, subseries) => {
@@ -78,20 +79,21 @@ const Dash = () => {
 	});
 
 	const addNewDashlet = (indicator, series, subSeries) => {
-		const firstEmpty = dashLets.findIndex(d => !d);
+		const firstEmpty = dashLets.findIndex((d) => !d);
+		if (firstEmpty === -1) {
+			return;
+		}
 		dashLets[firstEmpty] = { indicator, series, subSeries };
-
 		setDashlets([...dashLets]);
 	};
 
 	const dashLetDropped = (fromIndex, toIndex) => {
-		const temp = dashLets[toIndex];
 		dashLets[toIndex] = dashLets[fromIndex];
-		dashLets[fromIndex] = temp;
-		setDashlets([...dashLets])
+		dashLets[fromIndex] = null;
+		setDashlets([...dashLets]);
 	};
 
-	const isDashboardFull = () => dashLets.findIndex(d => !d) != -1;
+	const isDashboardFull = () => dashLets.findIndex((d) => !d) !== -1;
 
 	return (
 		<Grid container spacing={2}>
@@ -195,8 +197,8 @@ const Dash = () => {
 									<DatePicker
 										label="Start Date"
 										value={startDate}
-										minDate={moment('2020-03-01')}
-										maxDate={moment('2021-02-15')}
+										minDate={moment("2020-03-01")}
+										maxDate={moment("2021-02-15")}
 										onChange={(newValue) => {
 											setStartDate(newValue);
 										}}
@@ -207,8 +209,8 @@ const Dash = () => {
 									<DatePicker
 										label="End Date"
 										value={endDate}
-										minDate={moment('2020-02-15')}
-										maxDate={moment('2021-02-15')}
+										minDate={moment("2020-02-15")}
+										maxDate={moment("2021-02-15")}
 										onChange={(newValue) => {
 											setEndDate(newValue);
 										}}
@@ -234,7 +236,7 @@ const Dash = () => {
 							title={createTitle(dashLets[i], indicators, series, subseries)}
 						/>
 					)}
-					{!dashLets[i] && <DashSlot index={i} key={i} dashLetDropped={dashLetDropped} />}
+					{!dashLets[i] && <DashSlot index={i} dashLetDropped={dashLetDropped} />}
 				</Grid>
 			))}
 		</Grid>
