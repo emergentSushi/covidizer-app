@@ -1,9 +1,8 @@
 import { LineChart, Line, XAxis, YAxis, ResponsiveContainer } from "recharts";
 import { useQuery, gql } from "@apollo/client";
-import Card from "@mui/material/Card";
-import CardContent from "@mui/material/CardContent";
-import Close from "@mui/icons-material/Close";
-import IconButton from "@mui/material/IconButton";
+import { useDrag } from "react-dnd";
+import { Card, CardContent, IconButton, CardHeader } from "@mui/material/";
+import Delete from "@mui/icons-material/Delete";
 
 import "./Dashlet.css";
 
@@ -21,17 +20,33 @@ const eventsQuery = gql`
 	}
 `;
 
-const DisplayData = ({ indicator, series, subSeries, close, startDate, endDate }) => {
+const DisplayData = ({ indicator, series, subSeries, close, startDate, endDate, title }) => {
+	const [{ opacity }, dragRef] = useDrag(
+		() => ({
+			type: "CARD",
+			item: { indicator },
+			collect: (monitor) => ({
+				opacity: monitor.isDragging() ? 0.5 : 1,
+			}),
+		}),
+		[]
+	);
+
 	const { data } = useQuery(eventsQuery, {
 		variables: { indicatorId: indicator, seriesId: series, subSeriesId: subSeries, startDate, endDate },
 	});
 
 	return (
-		<Card sx={{ margin: 2 }} variant="outlined">
+		<Card sx={{ margin: 3 }} variant="outlined" ref={dragRef} style={{ opacity }}>
 			<CardContent>
-				<IconButton onClick={close}>
-					<Close />
-				</IconButton>
+				<CardHeader
+					action={
+						<IconButton onClick={close}>
+							<Delete />
+						</IconButton>
+					}
+					title={title}
+				/>
 				<ResponsiveContainer width="95%" height={400}>
 					<LineChart width={600} height={400} data={data?.allEvents?.nodes}>
 						<Line type="monotone" dataKey="value" stroke="#8884d8" />
