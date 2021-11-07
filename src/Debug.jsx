@@ -44,9 +44,9 @@ const DebugData = (props) => {
 
     return (
         <>
-            <DataTable header="test-data" nodes={series?.data?.allSeries?.nodes}></DataTable>
-            <DataTable header="test-data" nodes={indicators?.data?.allIndicators?.nodes}></DataTable>
-            <DataTable header="test-data" nodes={subseries?.data?.allSubSeries?.nodes}></DataTable>
+            <DataTable header="Series" nodes={series?.data?.allSeries?.nodes}></DataTable>
+            <DataTable header="Indicators" nodes={indicators?.data?.allIndicators?.nodes}></DataTable>
+            <DataTable header="Sub-series" nodes={subseries?.data?.allSubSeries?.nodes}></DataTable>
         </>
     );
 }

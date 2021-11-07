@@ -6,15 +6,18 @@ const style = {
 	margin: "24px 24px 24px 24px",
 	border: "2px dashed gray",
 };
-export const DashSlot = () => {
+export const DashSlot = ({ index, dashLetDropped }) => {
 	const [{ canDrop, isOver }, drop] = useDrop(() => ({
 		accept: "CARD",
-		drop: () => ({ name: "DropTarget" }),
+		drop: (item) => {
+			dashLetDropped(item.index, index);
+		},
 		collect: (monitor) => ({
 			isOver: monitor.isOver(),
 			canDrop: monitor.canDrop(),
 		}),
 	}));
+
 	const isActive = canDrop && isOver;
 	let backgroundColor = "transparent";
 	if (isActive) {

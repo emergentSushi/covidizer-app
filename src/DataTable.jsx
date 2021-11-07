@@ -1,13 +1,13 @@
-const DataTable = (props) => {
+const DataTable = ({header, nodes}) => {
     return (<table>
         <thead>
             <tr>
-                <th>{props.header}</th>
+                <th>{header}</th>
             </tr>
         </thead>
         <tbody>
             {
-                props.nodes?.map((r) => (
+                nodes?.map((r) => (
                     <tr key={r.id}>
                         <td>{r.name}</td>
                     </tr>

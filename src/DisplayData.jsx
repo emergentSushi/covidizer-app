@@ -20,16 +20,15 @@ const eventsQuery = gql`
 	}
 `;
 
-const DisplayData = ({ indicator, series, subSeries, close, startDate, endDate, title }) => {
+const DisplayData = ({ indicator, series, subSeries, close, startDate, endDate, title, index }) => {
 	const [{ opacity }, dragRef] = useDrag(
 		() => ({
 			type: "CARD",
-			item: { indicator },
+			item: { index },
 			collect: (monitor) => ({
 				opacity: monitor.isDragging() ? 0.5 : 1,
 			}),
-		}),
-		[]
+		})
 	);
 
 	const { data } = useQuery(eventsQuery, {

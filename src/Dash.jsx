@@ -1,5 +1,5 @@
 import DisplayData from "./DisplayData";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 
 import { useQuery, gql } from "@apollo/client";
 import { Grid, InputLabel, MenuItem, Select, Card, CardContent, Button, FormControl } from "@mui/material/";
@@ -50,20 +50,20 @@ const Dash = () => {
 	const [activeIndicator, setIndicator] = useState(0);
 	const [activeSeries, setSeries] = useState(0);
 	const [activeSubSeries, setSubSeries] = useState(0);
-	const [dashLets, setDashlets] = useState([]);
+	const [dashLets, setDashlets] = useState(new Array(DASHBOARD_MAX_SIZE).fill(null));
 
 	const [startDate, setStartDate] = useState(moment('2020-03-01'));
 	const [endDate, setEndDate] = useState(moment('2021-02-15'));
 
 	const onCloseDashlet = (index) => {
-		setDashlets(dashLets.filter((d, i) => index !== i));
+		setDashlets(dashLets.filter((_, i) => index !== i));
 	};
 
-	const createTitle = (dashLet, indicators, series, subseries) => {
+	const createTitle = (createdDashLet, indDicators, series, subseries) => {
 		const titleParts = [
-			indicators.data?.allIndicators?.nodes.filter((x) => x.id == dashLet.indicator)[0]?.name,
-			series?.data?.allSeries?.nodes.filter((x) => x.id == dashLet.series)[0]?.name,
-			subseries?.data?.allSubSeries?.nodes.filter((x) => x.id == dashLet.subSeries)[0]?.name,
+			indDicators.data?.allIndicators?.nodes.filter((x) => x.id === createdDashLet.indicator)[0]?.name,
+			series?.data?.allSeries?.nodes.filter((x) => x.id === createdDashLet.series)[0]?.name,
+			subseries?.data?.allSubSeries?.nodes.filter((x) => x.id === createdDashLet.subSeries)[0]?.name,
 		];
 
 		return titleParts.join(", ");
@@ -78,8 +78,20 @@ const Dash = () => {
 	});
 
 	const addNewDashlet = (indicator, series, subSeries) => {
-		setDashlets([...dashLets, { indicator, series, subSeries }]);
+		const firstEmpty = dashLets.findIndex(d => !d);
+		dashLets[firstEmpty] = { indicator, series, subSeries };
+
+		setDashlets([...dashLets]);
 	};
+
+	const dashLetDropped = (fromIndex, toIndex) => {
+		const temp = dashLets[toIndex];
+		dashLets[toIndex] = dashLets[fromIndex];
+		dashLets[fromIndex] = temp;
+		setDashlets([...dashLets])
+	};
+
+	const isDashboardFull = () => dashLets.findIndex(d => !d) != -1;
 
 	return (
 		<Grid container spacing={2}>
@@ -164,7 +176,7 @@ const Dash = () => {
 										activeIndicator === 0 ||
 										activeSeries === 0 ||
 										activeSubSeries === 0 ||
-										dashLets.length > 5
+										!isDashboardFull()
 									}
 								>
 									Add
@@ -210,7 +222,7 @@ const Dash = () => {
 			</Grid>
 			{Array.from({ length: DASHBOARD_MAX_SIZE }, (_, i) => i).map((_, i) => (
 				<Grid item key={i} xs={12} md={6}>
-					{i < dashLets.length && (
+					{dashLets[i] && (
 						<DisplayData
 							indicator={dashLets[i].indicator}
 							series={dashLets[i].series}
@@ -222,7 +234,7 @@ const Dash = () => {
 							title={createTitle(dashLets[i], indicators, series, subseries)}
 						/>
 					)}
-					{i >= dashLets.length && <DashSlot />}
+					{!dashLets[i] && <DashSlot index={i} key={i} dashLetDropped={dashLetDropped} />}
 				</Grid>
 			))}
 		</Grid>
