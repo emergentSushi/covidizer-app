@@ -1,0 +1,1617 @@
+class,category,indicator_name,series_name,sub_series_name,parameter,value,units,date_last_updated
+Health,COVID-19,Tests per day,Tests by day,Tests by day,01/03/2020,12,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,02/03/2020,29,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,03/03/2020,26,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,04/03/2020,25,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,05/03/2020,27,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,06/03/2020,66,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,07/03/2020,44,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,08/03/2020,28,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,09/03/2020,79,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,10/03/2020,88,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,11/03/2020,83,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,12/03/2020,97,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,13/03/2020,120,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,14/03/2020,128,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,15/03/2020,88,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,16/03/2020,404,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,17/03/2020,921,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,18/03/2020,1010,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,19/03/2020,1384,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,20/03/2020,1734,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,21/03/2020,1281,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,22/03/2020,873,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,23/03/2020,1898,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,24/03/2020,2192,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,25/03/2020,1952,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,26/03/2020,2088,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,27/03/2020,1853,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,28/03/2020,1366,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,29/03/2020,982,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,30/03/2020,1959,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,31/03/2020,2036,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,01/04/2020,3662,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,02/04/2020,4057,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,03/04/2020,4361,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,04/04/2020,2603,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,05/04/2020,2541,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,06/04/2020,3378,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,07/04/2020,4834,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,08/04/2020,3705,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,09/04/2020,3788,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,10/04/2020,1716,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,11/04/2020,1794,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,12/04/2020,1350,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,13/04/2020,1482,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,14/04/2020,3123,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,15/04/2020,4021,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,16/04/2020,4396,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,17/04/2020,4850,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,18/04/2020,3206,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,19/04/2020,2306,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,20/04/2020,5732,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,21/04/2020,7124,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,22/04/2020,6243,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,23/04/2020,6640,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,24/04/2020,6543,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,25/04/2020,2741,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,26/04/2020,2098,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,27/04/2020,2034,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,28/04/2020,5102,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,29/04/2020,5351,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,30/04/2020,5474,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,01/05/2020,5653,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,02/05/2020,2803,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,03/05/2020,1660,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,04/05/2020,5237,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,05/05/2020,6864,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,06/05/2020,7282,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,07/05/2020,7814,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,08/05/2020,8435,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,09/05/2020,3435,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,10/05/2020,1745,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,11/05/2020,5427,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,12/05/2020,7495,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,13/05/2020,6857,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,14/05/2020,6582,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,15/05/2020,5780,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,16/05/2020,2379,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,17/05/2020,1552,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,18/05/2020,5397,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,19/05/2020,5701,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,20/05/2020,5640,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,21/05/2020,5657,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,22/05/2020,4727,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,23/05/2020,1472,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,24/05/2020,1119,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,25/05/2020,4428,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,26/05/2020,4017,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,27/05/2020,3482,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,28/05/2020,3052,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,29/05/2020,2413,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,30/05/2020,769,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,31/05/2020,177,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,01/06/2020,671,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,02/06/2020,1149,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,03/06/2020,2720,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,04/06/2020,2717,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,05/06/2020,2993,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,06/06/2020,2076,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,07/06/2020,794,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,08/06/2020,990,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,09/06/2020,2641,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,10/06/2020,3427,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,11/06/2020,2915,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,12/06/2020,2934,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,13/06/2020,2484,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,14/06/2020,760,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,15/06/2020,1460,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,16/06/2020,3567,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,17/06/2020,4832,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,18/06/2020,6310,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,19/06/2020,7704,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,20/06/2020,6058,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,21/06/2020,3451,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,22/06/2020,4151,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,23/06/2020,8968,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,24/06/2020,10359,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,25/06/2020,10006,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,26/06/2020,9091,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,27/06/2020,5465,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,28/06/2020,2809,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,29/06/2020,1815,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,30/06/2020,4733,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,01/07/2020,3404,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,02/07/2020,3728,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,03/07/2020,2091,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,04/07/2020,587,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,05/07/2020,2611,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,06/07/2020,1850,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,07/07/2020,2188,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,08/07/2020,3003,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,09/07/2020,2665,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,10/07/2020,2102,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,11/07/2020,1721,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,12/07/2020,1091,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,13/07/2020,1534,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,14/07/2020,2791,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,15/07/2020,2827,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,16/07/2020,2351,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,17/07/2020,2575,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,18/07/2020,1436,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,19/07/2020,704,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,20/07/2020,955,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,21/07/2020,2196,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,22/07/2020,2366,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,23/07/2020,2746,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,24/07/2020,2394,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,25/07/2020,1682,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,26/07/2020,645,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,27/07/2020,1606,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,28/07/2020,2401,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,29/07/2020,2414,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,30/07/2020,2396,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,31/07/2020,3077,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,01/08/2020,2409,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,02/08/2020,1689,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,03/08/2020,1702,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,04/08/2020,4114,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,05/08/2020,4889,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,06/08/2020,4070,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,07/08/2020,3365,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,08/08/2020,4090,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,09/08/2020,2338,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,10/08/2020,1687,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,11/08/2020,4164,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,12/08/2020,5978,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,13/08/2020,15653,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,14/08/2020,23378,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,15/08/2020,23991,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,16/08/2020,25005,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,17/08/2020,18436,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,18/08/2020,22699,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,19/08/2020,17598,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,20/08/2020,14662,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,21/08/2020,12009,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,22/08/2020,7271,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,23/08/2020,4477,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,24/08/2020,4194,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,25/08/2020,8498,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,26/08/2020,8786,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,27/08/2020,10410,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,28/08/2020,10178,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,29/08/2020,10500,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,30/08/2020,6566,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,31/08/2020,8939,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,01/09/2020,11149,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,02/09/2020,10523,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,03/09/2020,9589,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,04/09/2020,8860,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,05/09/2020,7775,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,06/09/2020,3999,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,07/09/2020,4695,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,08/09/2020,8016,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,09/09/2020,7707,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,10/09/2020,8551,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,11/09/2020,8915,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,12/09/2020,7485,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,13/09/2020,3862,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,14/09/2020,3931,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,15/09/2020,8598,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,16/09/2020,8345,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,17/09/2020,7317,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,18/09/2020,8170,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,19/09/2020,5537,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,20/09/2020,3367,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,21/09/2020,3507,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,22/09/2020,6842,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,23/09/2020,6080,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,24/09/2020,6435,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,25/09/2020,5875,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,26/09/2020,5077,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,27/09/2020,3612,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,28/09/2020,3244,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,29/09/2020,4995,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,30/09/2020,5607,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,01/10/2020,4749,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,02/10/2020,6359,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,03/10/2020,4010,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,04/10/2020,2579,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,05/10/2020,3038,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,06/10/2020,5669,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,07/10/2020,6152,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,08/10/2020,5597,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,09/10/2020,4814,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,10/10/2020,3809,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,11/10/2020,2026,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,12/10/2020,3017,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,13/10/2020,5849,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,14/10/2020,5196,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,15/10/2020,5078,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,16/10/2020,4794,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,17/10/2020,3390,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,18/10/2020,1773,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,19/10/2020,2715,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,20/10/2020,6308,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,21/10/2020,7083,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,22/10/2020,6053,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,23/10/2020,7700,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,24/10/2020,5396,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,25/10/2020,3038,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,26/10/2020,2311,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,27/10/2020,3335,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,28/10/2020,7403,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,29/10/2020,7472,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,30/10/2020,5964,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,31/10/2020,4401,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,01/11/2020,3046,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,02/11/2020,2455,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,03/11/2020,7171,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,04/11/2020,6391,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,05/11/2020,6856,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,06/11/2020,5834,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,07/11/2020,4116,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,08/11/2020,3042,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,09/11/2020,2960,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,10/11/2020,5995,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,11/11/2020,6581,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,12/11/2020,7226,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,13/11/2020,6320,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,14/11/2020,10525,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,15/11/2020,5298,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,16/11/2020,6146,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,17/11/2020,8392,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,18/11/2020,8665,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,19/11/2020,9292,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,20/11/2020,7014,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,21/11/2020,6504,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,22/11/2020,3274,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,23/11/2020,3560,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,24/11/2020,5779,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,25/11/2020,9083,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,26/11/2020,7454,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,27/11/2020,6888,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,28/11/2020,5642,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,29/11/2020,2939,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,30/11/2020,3165,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,01/12/2020,7076,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,02/12/2020,5843,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,03/12/2020,6846,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,04/12/2020,6047,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,05/12/2020,5490,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,06/12/2020,2315,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,07/12/2020,2894,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,08/12/2020,6397,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,11/12/2020,4962,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,13/12/2020,4245,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,14/12/2020,2203,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,15/12/2020,5942,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,16/12/2020,5942,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,18/12/2020,4972,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,20/12/2020,4411,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,21/12/2020,2160,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,23/12/2020,5184,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,27/12/2020,NA,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,29/12/2020,2180,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,31/12/2020,4347,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,03/01/2021,1598,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,05/01/2021,2156,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,07/01/2021,4694,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,10/01/2021,3142,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,11/01/2021,2716,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,13/01/2021,4847,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,15/01/2021,4358,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,17/01/2021,3488,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,18/01/2021,1868,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,20/01/2021,4451,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,22/01/2021,4305,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,24/01/2021,2678,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,26/01/2021,3582,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,27/01/2021,10812,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,28/01/2021,8306,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,01/02/2021,3017,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,02/02/2021,2302,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,03/02/2021,4106,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,04/02/2021,5130,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,05/02/2021,4875,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,08/02/2021,2579,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,09/02/2021,2207,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,10/02/2021,2845,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,11/02/2021,5740,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,12/02/2021,5089,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,14/02/2021,3343,Number,15/02/2021
+Health,COVID-19,Tests per day,Tests by day,Tests by day,15/02/2021,3132,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),01/03/2020,225,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),02/03/2020,254,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),03/03/2020,280,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),04/03/2020,305,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),05/03/2020,332,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),06/03/2020,398,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),07/03/2020,442,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),08/03/2020,470,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),09/03/2020,549,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),10/03/2020,637,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),11/03/2020,720,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),12/03/2020,817,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),13/03/2020,937,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),14/03/2020,1065,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),15/03/2020,1153,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),16/03/2020,1557,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),17/03/2020,2478,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),18/03/2020,3488,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),19/03/2020,4872,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),20/03/2020,6606,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),21/03/2020,7887,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),22/03/2020,8760,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),23/03/2020,10658,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),24/03/2020,12850,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),25/03/2020,14802,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),26/03/2020,16890,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),27/03/2020,18743,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),28/03/2020,20109,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),29/03/2020,21091,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),30/03/2020,23050,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),31/03/2020,25086,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),01/04/2020,28748,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),02/04/2020,32805,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),03/04/2020,37166,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),04/04/2020,39769,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),05/04/2020,42310,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),06/04/2020,45688,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),07/04/2020,50522,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),08/04/2020,54227,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),09/04/2020,58015,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),10/04/2020,59731,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),11/04/2020,61525,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),12/04/2020,62875,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),13/04/2020,64357,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),14/04/2020,67480,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),15/04/2020,71501,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),16/04/2020,75897,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),17/04/2020,80747,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),18/04/2020,83953,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),19/04/2020,86259,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),20/04/2020,91991,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),21/04/2020,99115,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),22/04/2020,105358,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),23/04/2020,111998,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),24/04/2020,118541,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),25/04/2020,121282,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),26/04/2020,123380,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),27/04/2020,125414,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),28/04/2020,130516,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),29/04/2020,135867,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),30/04/2020,141341,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),01/05/2020,146994,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),02/05/2020,149797,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),03/05/2020,151457,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),04/05/2020,156694,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),05/05/2020,163558,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),06/05/2020,170840,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),07/05/2020,178654,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),08/05/2020,187089,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),09/05/2020,190524,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),10/05/2020,192269,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),11/05/2020,197696,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),12/05/2020,205191,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),13/05/2020,212048,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),14/05/2020,218630,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),15/05/2020,224410,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),16/05/2020,226789,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),17/05/2020,228341,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),18/05/2020,233738,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),19/05/2020,239439,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),20/05/2020,245079,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),21/05/2020,250736,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),22/05/2020,255463,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),23/05/2020,256935,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),24/05/2020,258054,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),25/05/2020,262482,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),26/05/2020,266499,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),27/05/2020,269981,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),28/05/2020,273033,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),29/05/2020,275446,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),30/05/2020,276215,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),31/05/2020,276392,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),01/06/2020,277063,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),02/06/2020,278212,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),03/06/2020,280932,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),04/06/2020,283649,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),05/06/2020,286642,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),06/06/2020,288718,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),07/06/2020,289512,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),08/06/2020,290502,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),09/06/2020,293143,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),10/06/2020,296570,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),11/06/2020,299485,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),12/06/2020,302419,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),13/06/2020,304903,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),14/06/2020,305663,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),15/06/2020,307123,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),16/06/2020,310690,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),17/06/2020,315522,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),18/06/2020,321832,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),19/06/2020,329536,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),20/06/2020,335594,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),21/06/2020,339045,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),22/06/2020,343196,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),23/06/2020,352164,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),24/06/2020,362523,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),25/06/2020,372529,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),26/06/2020,381620,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),27/06/2020,387085,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),28/06/2020,389894,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),29/06/2020,391709,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),30/06/2020,396442,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),01/07/2020,399846,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),02/07/2020,403574,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),03/07/2020,405665,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),04/07/2020,406252,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),05/07/2020,408863,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),06/07/2020,410713,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),07/07/2020,412901,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),08/07/2020,415904,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),09/07/2020,418569,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),10/07/2020,420671,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),11/07/2020,422392,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),12/07/2020,423483,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),13/07/2020,425017,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),14/07/2020,427808,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),15/07/2020,430635,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),16/07/2020,432986,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),17/07/2020,435561,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),18/07/2020,436997,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),19/07/2020,437701,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),20/07/2020,438656,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),21/07/2020,440852,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),22/07/2020,443218,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),23/07/2020,445964,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),24/07/2020,448358,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),25/07/2020,450040,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),26/07/2020,450685,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),27/07/2020,452291,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),28/07/2020,454692,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),29/07/2020,457106,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),30/07/2020,459502,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),31/07/2020,462579,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),01/08/2020,464988,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),02/08/2020,466677,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),03/08/2020,468379,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),04/08/2020,472493,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),05/08/2020,477382,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),06/08/2020,481452,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),07/08/2020,484817,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),08/08/2020,488907,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),09/08/2020,491245,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),10/08/2020,492932,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),11/08/2020,497096,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),12/08/2020,503074,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),13/08/2020,518727,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),14/08/2020,542105,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),15/08/2020,566096,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),16/08/2020,591101,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),17/08/2020,609537,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),18/08/2020,632236,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),19/08/2020,649834,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),20/08/2020,664496,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),21/08/2020,676505,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),22/08/2020,683776,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),23/08/2020,688253,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),24/08/2020,692447,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),25/08/2020,700945,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),26/08/2020,709731,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),27/08/2020,720141,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),28/08/2020,730319,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),29/08/2020,740819,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),30/08/2020,747385,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),31/08/2020,756324,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),01/09/2020,767473,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),02/09/2020,777996,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),03/09/2020,787585,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),04/09/2020,796445,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),05/09/2020,804220,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),06/09/2020,808219,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),07/09/2020,812914,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),08/09/2020,820930,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),09/09/2020,828637,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),10/09/2020,837188,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),11/09/2020,846103,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),12/09/2020,853588,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),13/09/2020,857450,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),14/09/2020,861381,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),15/09/2020,869979,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),16/09/2020,878324,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),17/09/2020,885641,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),18/09/2020,893811,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),19/09/2020,899348,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),20/09/2020,902715,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),21/09/2020,906222,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),22/09/2020,913064,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),23/09/2020,919144,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),24/09/2020,925579,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),25/09/2020,931454,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),26/09/2020,936531,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),27/09/2020,940143,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),28/09/2020,943387,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),29/09/2020,948382,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),30/09/2020,953989,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),01/10/2020,958738,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),02/10/2020,965097,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),03/10/2020,969107,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),04/10/2020,971686,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),05/10/2020,974724,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),06/10/2020,980393,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),07/10/2020,986545,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),08/10/2020,992142,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),09/10/2020,996956,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),10/10/2020,1000765,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),11/10/2020,1002791,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),12/10/2020,1005808,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),13/10/2020,1011657,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),14/10/2020,1016853,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),15/10/2020,1021931,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),16/10/2020,1026725,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),17/10/2020,1030115,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),18/10/2020,1031888,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),19/10/2020,1034603,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),20/10/2020,1040911,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),21/10/2020,1047994,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),22/10/2020,1054047,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),23/10/2020,1061747,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),24/10/2020,1067143,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),25/10/2020,1070181,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),26/10/2020,1072492,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),27/10/2020,1075827,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),28/10/2020,1083230,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),29/10/2020,1090702,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),30/10/2020,1096666,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),31/10/2020,1101067,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),01/11/2020,1104113,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),02/11/2020,1106568,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),03/11/2020,1113739,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),04/11/2020,1120130,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),05/11/2020,1126986,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),06/11/2020,1132820,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),07/11/2020,1136936,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),08/11/2020,1139978,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),09/11/2020,1142938,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),10/11/2020,1148933,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),11/11/2020,1155514,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),12/11/2020,1162740,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),13/11/2020,1169062,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),14/11/2020,1179587,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),15/11/2020,1184885,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),16/11/2020,1191034,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),17/11/2020,1199426,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),18/11/2020,1208091,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),19/11/2020,1217383,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),20/11/2020,1224397,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),21/11/2020,1230901,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),22/11/2020,1234175,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),23/11/2020,1237736,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),24/11/2020,1243518,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),25/11/2020,1252601,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),26/11/2020,1260055,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),27/11/2020,1266944,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),28/11/2020,1272586,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),29/11/2020,1275525,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),30/11/2020,1278690,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),01/12/2020,1285766,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),02/12/2020,1291609,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),03/12/2020,1298455,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),04/12/2020,1304502,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),05/12/2020,1309992,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),06/12/2020,1312307,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),07/12/2020,1315201,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),08/12/2020,1321598,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),11/12/2020,1332470,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),13/12/2020,1341978,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),14/12/2020,1344192,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),15/12/2020,1352462,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),16/12/2020,1352462,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),18/12/2020,1363124,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),20/12/2020,1371889,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),21/12/2020,1374050,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),23/12/2020,1381545,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),27/12/2020,1396752,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),29/12/2020,1398932,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),31/12/2020,1405854,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),03/01/2021,1414422,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),05/01/2021,1419361,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),07/01/2021,1426787,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),10/01/2021,1438446,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),11/01/2021,1441163,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),13/01/2021,1448199,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),15/01/2021,1457076,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),17/01/2021,1463890,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),18/01/2021,1465758,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),20/01/2021,1472326,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),22/01/2021,1480691,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),24/01/2021,1489913,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),26/01/2021,1493495,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),27/01/2021,1504309,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),28/01/2021,1512616,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),01/02/2021,1535292,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),02/02/2021,1537594,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),03/02/2021,1541701,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),04/02/2021,1546832,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),05/02/2021,1551707,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),08/02/2021,1562891,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),09/02/2021,1565107,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),10/02/2021,1567952,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),11/02/2021,1573692,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),12/02/2021,1578782,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),14/02/2021,1586816,Number,15/02/2021
+Health,COVID-19,Tests per day,Total tests (cumulative),Total tests (cumulative),15/02/2021,1589949,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,28/02/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,29/02/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,01/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,02/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,03/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,04/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,05/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,06/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,07/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,08/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,09/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,10/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,11/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,12/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,13/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,14/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,15/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,16/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,17/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,18/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,19/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,20/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,21/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,22/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,23/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,24/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,25/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,26/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,27/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,28/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,29/03/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,30/03/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,31/03/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,01/04/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,02/04/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,03/04/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,04/04/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,05/04/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,06/04/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,07/04/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,08/04/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,09/04/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,10/04/2020,2,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,11/04/2020,4,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,12/04/2020,4,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,13/04/2020,5,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,14/04/2020,9,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,15/04/2020,9,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,16/04/2020,9,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,17/04/2020,11,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,18/04/2020,11,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,19/04/2020,12,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,20/04/2020,12,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,21/04/2020,13,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,22/04/2020,14,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,23/04/2020,16,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,24/04/2020,17,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,25/04/2020,18,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,26/04/2020,18,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,27/04/2020,19,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,28/04/2020,19,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,29/04/2020,19,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,30/04/2020,19,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,01/05/2020,19,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,02/05/2020,20,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,03/05/2020,20,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,04/05/2020,20,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,05/05/2020,20,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,06/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,07/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,08/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,09/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,10/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,11/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,12/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,13/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,14/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,15/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,16/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,17/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,18/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,19/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,20/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,21/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,22/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,23/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,24/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,25/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,26/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,27/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,28/05/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,29/05/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,30/05/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,31/05/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,01/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,02/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,03/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,04/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,05/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,06/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,07/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,08/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,09/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,10/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,11/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,12/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,13/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,14/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,15/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,16/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,17/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,18/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,19/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,20/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,21/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,22/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,23/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,24/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,25/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,26/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,27/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,28/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,29/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,30/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,01/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,02/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,03/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,04/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,05/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,06/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,07/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,08/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,09/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,10/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,11/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,12/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,13/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,14/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,15/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,16/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,17/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,18/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,19/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,20/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,21/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,22/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,23/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,24/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,25/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,26/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,27/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,28/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,29/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,30/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,31/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,01/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,02/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,03/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,04/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,05/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,06/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,07/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,08/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,09/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,10/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,11/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,12/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,13/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,14/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,15/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,16/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,17/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,18/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,19/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,20/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,21/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,22/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,23/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,24/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,25/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,26/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,27/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,28/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,29/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,30/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,31/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,01/09/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,02/09/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,03/09/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,04/09/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,05/09/2020,24,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,06/09/2020,24,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,07/09/2020,24,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,08/09/2020,24,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,09/09/2020,24,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,10/09/2020,24,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,11/09/2020,24,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,12/09/2020,24,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,13/09/2020,24,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,14/09/2020,24,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,15/09/2020,24,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,16/09/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,17/09/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,18/09/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,19/09/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,20/09/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,21/09/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,22/09/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,23/09/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,24/09/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,25/09/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,26/09/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,27/09/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,28/09/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,29/09/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,30/09/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,01/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,02/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,03/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,04/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,05/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,06/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,07/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,08/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,09/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,10/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,11/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,12/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,13/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,14/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,15/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,16/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,17/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,18/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,19/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,20/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,21/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,22/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,23/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,24/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,25/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,26/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,27/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,28/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,29/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,30/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,31/10/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,01/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,02/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,03/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,04/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,05/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,06/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,07/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,08/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,09/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,10/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,11/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,12/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,13/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,14/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,15/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,16/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,17/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,18/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,19/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,20/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,21/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,22/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,23/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,24/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,25/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,26/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,27/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,28/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,29/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,30/11/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,01/12/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,02/12/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,03/12/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,04/12/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,05/12/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,06/12/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,07/12/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,08/12/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,09/12/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,11/12/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,13/12/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,14/12/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,15/12/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,16/12/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,18/12/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,20/12/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,21/12/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,23/12/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,27/12/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,29/12/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,31/12/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,03/01/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,05/01/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,07/01/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,10/01/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,11/01/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,13/01/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,15/01/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,17/01/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,18/01/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,20/01/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,22/01/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,26/01/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,27/01/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,28/01/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,01/02/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,02/02/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,03/02/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,04/02/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,05/02/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,08/02/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,09/02/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,10/02/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,11/02/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,12/02/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,14/02/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Deceased,15/02/2021,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,28/02/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,29/02/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,01/03/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,02/03/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,03/03/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,04/03/2020,3,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,05/03/2020,3,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,06/03/2020,4,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,07/03/2020,5,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,08/03/2020,5,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,09/03/2020,5,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,10/03/2020,5,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,11/03/2020,5,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,12/03/2020,5,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,13/03/2020,5,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,14/03/2020,6,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,15/03/2020,8,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,16/03/2020,8,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,17/03/2020,12,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,18/03/2020,20,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,19/03/2020,28,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,20/03/2020,39,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,21/03/2020,52,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,22/03/2020,66,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,23/03/2020,102,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,24/03/2020,143,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,25/03/2020,183,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,26/03/2020,256,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,27/03/2020,331,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,28/03/2020,401,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,29/03/2020,457,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,30/03/2020,525,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,31/03/2020,572,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,01/04/2020,625,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,02/04/2020,704,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,03/04/2020,764,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,04/04/2020,822,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,05/04/2020,882,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,06/04/2020,929,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,07/04/2020,918,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,08/04/2020,927,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,09/04/2020,921,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,10/04/2020,908,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,11/04/2020,886,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,12/04/2020,855,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,13/04/2020,798,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,14/04/2020,729,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,15/04/2020,649,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,16/04/2020,622,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,17/04/2020,582,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,18/04/2020,544,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,19/04/2020,507,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,20/04/2020,454,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,21/04/2020,426,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,22/04/2020,401,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,23/04/2020,370,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,24/04/2020,344,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,25/04/2020,325,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,26/04/2020,310,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,27/04/2020,270,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,28/04/2020,239,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,29/04/2020,226,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,30/04/2020,216,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,01/05/2020,208,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,02/05/2020,202,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,03/05/2020,201,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,04/05/2020,191,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,05/05/2020,164,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,06/05/2020,151,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,07/05/2020,136,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,08/05/2020,122,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,09/05/2020,103,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,10/05/2020,102,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,11/05/2020,90,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,12/05/2020,78,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,13/05/2020,74,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,14/05/2020,65,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,15/05/2020,56,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,16/05/2020,49,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,17/05/2020,45,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,18/05/2020,45,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,19/05/2020,40,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,20/05/2020,35,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,21/05/2020,30,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,22/05/2020,28,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,23/05/2020,28,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,24/05/2020,27,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,25/05/2020,27,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,26/05/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,27/05/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,28/05/2020,8,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,29/05/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,30/05/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,31/05/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,01/06/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,02/06/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,03/06/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,04/06/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,05/06/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,06/06/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,07/06/2020,1,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,08/06/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,09/06/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,10/06/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,11/06/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,12/06/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,13/06/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,14/06/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,15/06/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,16/06/2020,2,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,17/06/2020,2,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,18/06/2020,3,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,19/06/2020,3,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,20/06/2020,5,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,21/06/2020,7,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,22/06/2020,9,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,23/06/2020,10,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,24/06/2020,11,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,25/06/2020,13,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,26/06/2020,14,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,27/06/2020,16,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,28/06/2020,20,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,29/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,30/06/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,01/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,02/07/2020,18,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,03/07/2020,18,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,04/07/2020,18,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,05/07/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,06/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,07/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,08/07/2020,23,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,09/07/2020,24,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,10/07/2020,23,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,11/07/2020,24,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,12/07/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,13/07/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,14/07/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,15/07/2020,27,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,16/07/2020,27,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,17/07/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,18/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,19/07/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,20/07/2020,26,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,21/07/2020,27,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,22/07/2020,27,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,23/07/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,24/07/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,25/07/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,26/07/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,27/07/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,28/07/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,29/07/2020,23,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,30/07/2020,24,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,31/07/2020,20,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,01/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,02/08/2020,25,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,03/08/2020,27,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,04/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,05/08/2020,24,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,06/08/2020,23,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,07/08/2020,23,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,08/08/2020,23,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,09/08/2020,23,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,10/08/2020,21,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,11/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,12/08/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,13/08/2020,36,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,14/08/2020,49,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,15/08/2020,56,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,16/08/2020,69,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,17/08/2020,78,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,18/08/2020,90,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,19/08/2020,96,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,20/08/2020,101,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,21/08/2020,105,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,22/08/2020,111,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,23/08/2020,114,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,24/08/2020,123,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,25/08/2020,129,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,26/08/2020,134,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,27/08/2020,126,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,28/08/2020,131,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,29/08/2020,137,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,30/08/2020,137,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,31/08/2020,131,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,01/09/2020,132,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,02/09/2020,129,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,03/09/2020,115,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,04/09/2020,112,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,05/09/2020,112,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,06/09/2020,116,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,07/09/2020,118,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,08/09/2020,123,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,09/09/2020,125,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,10/09/2020,120,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,11/09/2020,114,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,12/09/2020,108,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,13/09/2020,97,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,14/09/2020,96,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,15/09/2020,83,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,16/09/2020,79,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,17/09/2020,77,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,18/09/2020,70,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,19/09/2020,67,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,20/09/2020,71,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,21/09/2020,62,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,22/09/2020,61,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,23/09/2020,62,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,24/09/2020,65,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,25/09/2020,60,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,26/09/2020,61,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,27/09/2020,59,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,28/09/2020,55,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,29/09/2020,55,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,30/09/2020,44,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,01/10/2020,53,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,02/10/2020,43,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,03/10/2020,41,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,04/10/2020,41,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,05/10/2020,40,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,06/10/2020,43,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,07/10/2020,37,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,08/10/2020,39,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,09/10/2020,41,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,10/10/2020,44,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,11/10/2020,45,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,12/10/2020,45,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,13/10/2020,39,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,14/10/2020,40,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,15/10/2020,42,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,16/10/2020,46,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,17/10/2020,40,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,18/10/2020,42,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,19/10/2020,37,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,20/10/2020,33,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,21/10/2020,56,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,22/10/2020,58,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,23/10/2020,61,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,24/10/2020,74,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,25/10/2020,70,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,26/10/2020,74,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,27/10/2020,68,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,28/10/2020,66,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,29/10/2020,70,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,30/10/2020,68,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,31/10/2020,75,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,01/11/2020,77,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,02/11/2020,81,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,03/11/2020,75,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,04/11/2020,73,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,05/11/2020,67,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,06/11/2020,44,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,07/11/2020,43,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,08/11/2020,48,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,09/11/2020,51,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,10/11/2020,52,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,11/11/2020,52,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,12/11/2020,53,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,13/11/2020,53,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,14/11/2020,55,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,15/11/2020,58,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,16/11/2020,58,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,17/11/2020,61,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,18/11/2020,64,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,19/11/2020,37,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,20/11/2020,40,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,21/11/2020,42,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,22/11/2020,50,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,23/11/2020,52,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,24/11/2020,53,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,25/11/2020,59,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,26/11/2020,60,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,27/11/2020,66,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,28/11/2020,69,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,29/11/2020,68,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,30/11/2020,72,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,01/12/2020,72,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,02/12/2020,72,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,03/12/2020,70,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,04/12/2020,61,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,05/12/2020,59,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,06/12/2020,56,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,07/12/2020,56,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,08/12/2020,54,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,09/12/2020,55,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,11/12/2020,57,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,13/12/2020,56,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,14/12/2020,56,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,15/12/2020,43,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,16/12/2020,43,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,18/12/2020,51,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,20/12/2020,55,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,21/12/2020,59,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,23/12/2020,49,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,27/12/2020,50,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,29/12/2020,49,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,31/12/2020,55,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,03/01/2021,72,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,05/01/2021,61,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,07/01/2021,62,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,10/01/2021,75,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,11/01/2021,77,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,13/01/2021,62,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,15/01/2021,76,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,17/01/2021,82,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,18/01/2021,85,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,20/01/2021,76,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,22/01/2021,73,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,26/01/2021,66,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,27/01/2021,68,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,28/01/2021,69,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,01/02/2021,69,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,02/02/2021,72,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,03/02/2021,61,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,04/02/2021,60,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,05/02/2021,62,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,08/02/2021,66,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,09/02/2021,67,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,10/02/2021,59,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,11/02/2021,54,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,12/02/2021,44,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,14/02/2021,47,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Active,15/02/2021,47,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,28/02/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,29/02/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,01/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,02/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,03/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,04/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,05/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,06/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,07/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,08/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,09/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,10/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,11/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,12/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,13/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,14/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,15/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,16/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,17/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,18/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,19/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,20/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,21/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,22/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,23/03/2020,0,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,24/03/2020,12,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,25/03/2020,22,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,26/03/2020,27,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,27/03/2020,37,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,28/03/2020,50,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,29/03/2020,56,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,30/03/2020,63,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,31/03/2020,74,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,01/04/2020,82,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,02/04/2020,92,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,03/04/2020,103,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,04/04/2020,127,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,05/04/2020,156,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,06/04/2020,176,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,07/04/2020,241,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,08/04/2020,282,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,09/04/2020,317,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,10/04/2020,373,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,11/04/2020,422,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,12/04/2020,471,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,13/04/2020,546,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,14/04/2020,628,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,15/04/2020,728,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,16/04/2020,770,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,17/04/2020,816,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,18/04/2020,867,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,19/04/2020,912,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,20/04/2020,974,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,21/04/2020,1006,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,22/04/2020,1036,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,23/04/2020,1065,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,24/04/2020,1095,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,25/04/2020,1118,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,26/04/2020,1142,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,27/04/2020,1180,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,28/04/2020,1214,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,29/04/2020,1229,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,30/04/2020,1241,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,01/05/2020,1252,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,02/05/2020,1263,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,03/05/2020,1266,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,04/05/2020,1276,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,05/05/2020,1302,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,06/05/2020,1316,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,07/05/2020,1332,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,08/05/2020,1347,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,09/05/2020,1368,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,10/05/2020,1371,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,11/05/2020,1386,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,12/05/2020,1398,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,13/05/2020,1402,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,14/05/2020,1411,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,15/05/2020,1421,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,16/05/2020,1428,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,17/05/2020,1433,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,18/05/2020,1433,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,19/05/2020,1442,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,20/05/2020,1447,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,21/05/2020,1452,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,22/05/2020,1455,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,23/05/2020,1455,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,24/05/2020,1456,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,25/05/2020,1456,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,26/05/2020,1461,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,27/05/2020,1462,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,28/05/2020,1474,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,29/05/2020,1481,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,30/05/2020,1481,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,31/05/2020,1481,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,01/06/2020,1481,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,02/06/2020,1481,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,03/06/2020,1481,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,04/06/2020,1481,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,05/06/2020,1481,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,06/06/2020,1481,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,07/06/2020,1481,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,08/06/2020,1482,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,09/06/2020,1482,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,10/06/2020,1482,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,11/06/2020,1482,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,12/06/2020,1482,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,13/06/2020,1482,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,14/06/2020,1482,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,15/06/2020,1482,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,16/06/2020,1482,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,17/06/2020,1482,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,18/06/2020,1482,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,19/06/2020,1482,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,20/06/2020,1482,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,21/06/2020,1482,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,22/06/2020,1482,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,23/06/2020,1483,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,24/06/2020,1483,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,25/06/2020,1484,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,26/06/2020,1484,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,27/06/2020,1484,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,28/06/2020,1484,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,29/06/2020,1484,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,30/06/2020,1484,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,01/07/2020,1484,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,02/07/2020,1490,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,03/07/2020,1490,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,04/07/2020,1490,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,05/07/2020,1490,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,06/07/2020,1490,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,07/07/2020,1492,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,08/07/2020,1492,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,09/07/2020,1494,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,10/07/2020,1497,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,11/07/2020,1497,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,12/07/2020,1497,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,13/07/2020,1497,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,14/07/2020,1498,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,15/07/2020,1498,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,16/07/2020,1499,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,17/07/2020,1506,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,18/07/2020,1506,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,19/07/2020,1506,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,20/07/2020,1506,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,21/07/2020,1506,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,22/07/2020,1506,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,23/07/2020,1511,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,24/07/2020,1513,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,25/07/2020,1513,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,26/07/2020,1513,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,27/07/2020,1513,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,28/07/2020,1514,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,29/07/2020,1514,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,30/07/2020,1514,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,31/07/2020,1518,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,01/08/2020,1518,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,02/08/2020,1518,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,03/08/2020,1518,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,04/08/2020,1523,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,05/08/2020,1523,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,06/08/2020,1524,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,07/08/2020,1524,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,08/08/2020,1524,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,09/08/2020,1524,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,10/08/2020,1526,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,11/08/2020,1526,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,12/08/2020,1531,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,13/08/2020,1531,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,14/08/2020,1531,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,15/08/2020,1531,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,16/08/2020,1531,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,17/08/2020,1531,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,18/08/2020,1531,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,19/08/2020,1531,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,20/08/2020,1531,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,21/08/2020,1538,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,22/08/2020,1538,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,23/08/2020,1538,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,24/08/2020,1538,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,25/08/2020,1539,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,26/08/2020,1539,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,27/08/2020,1554,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,28/08/2020,1561,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,29/08/2020,1568,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,30/08/2020,1570,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,31/08/2020,1585,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,01/09/2020,1598,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,02/09/2020,1606,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,03/09/2020,1622,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,04/09/2020,1630,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,05/09/2020,1631,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,06/09/2020,1632,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,07/09/2020,1634,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,08/09/2020,1635,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,09/09/2020,1639,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,10/09/2020,1648,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,11/09/2020,1655,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,12/09/2020,1663,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,13/09/2020,1676,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,14/09/2020,1678,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,15/09/2020,1694,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,16/09/2020,1698,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,17/09/2020,1707,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,18/09/2020,1714,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,19/09/2020,1719,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,20/09/2020,1719,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,21/09/2020,1728,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,22/09/2020,1729,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,23/09/2020,1737,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,24/09/2020,1737,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,25/09/2020,1744,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,26/09/2020,1745,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,27/09/2020,1749,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,28/09/2020,1753,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,29/09/2020,1755,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,30/09/2020,1767,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,01/10/2020,1770,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,02/10/2020,1780,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,03/10/2020,1783,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,04/10/2020,1788,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,05/10/2020,1790,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,06/10/2020,1790,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,07/10/2020,1799,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,08/10/2020,1800,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,09/10/2020,1800,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,10/10/2020,1801,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,11/10/2020,1801,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,12/10/2020,1801,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,13/10/2020,1808,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,14/10/2020,1809,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,15/10/2020,1809,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,16/10/2020,1809,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,17/10/2020,1818,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,18/10/2020,1819,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,19/10/2020,1824,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,20/10/2020,1829,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,21/10/2020,1831,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,22/10/2020,1831,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,23/10/2020,1832,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,24/10/2020,1835,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,25/10/2020,1840,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,26/10/2020,1841,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,27/10/2020,1848,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,28/10/2020,1852,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,29/10/2020,1854,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,30/10/2020,1857,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,31/10/2020,1857,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,01/11/2020,1857,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,02/11/2020,1857,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,03/11/2020,1868,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,04/11/2020,1873,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,05/11/2020,1881,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,06/11/2020,1905,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,07/11/2020,1908,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,08/11/2020,1909,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,09/11/2020,1910,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,10/11/2020,1910,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,11/11/2020,1911,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,12/11/2020,1913,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,13/11/2020,1917,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,14/11/2020,1918,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,15/11/2020,1918,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,16/11/2020,1918,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,17/11/2020,1919,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,18/11/2020,1919,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,19/11/2020,1948,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,20/11/2020,1948,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,21/11/2020,1952,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,22/11/2020,1953,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,23/11/2020,1953,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,24/11/2020,1953,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,25/11/2020,1955,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,26/11/2020,1955,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,27/11/2020,1956,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,28/11/2020,1956,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,29/11/2020,1958,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,30/11/2020,1959,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,01/12/2020,1962,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,02/12/2020,1963,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,03/12/2020,1972,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,04/12/2020,1983,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,05/12/2020,1994,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,06/12/2020,1997,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,07/12/2020,1998,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,08/12/2020,2006,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,09/12/2020,2008,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,11/12/2020,2010,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,13/12/2020,2015,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,14/12/2020,2015,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,15/12/2020,2032,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,16/12/2020,2032,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,18/12/2020,2034,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,20/12/2020,2036,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,21/12/2020,2037,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,23/12/2020,2054,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,27/12/2020,2069,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,29/12/2020,2077,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,31/12/2020,2082,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,03/01/2021,2084,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,05/01/2021,2100,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,07/01/2021,2101,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,10/01/2021,2119,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,11/01/2021,2120,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,13/01/2021,2141,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,15/01/2021,2145,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,17/01/2021,2149,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,18/01/2021,2152,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,20/01/2021,2166,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,22/01/2021,2178,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,26/01/2021,2200,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,27/01/2021,2201,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,28/01/2021,2205,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,01/02/2021,2209,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,02/02/2021,2210,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,03/02/2021,2222,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,04/02/2021,2228,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,05/02/2021,2228,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,08/02/2021,2229,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,09/02/2021,2230,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,10/02/2021,2240,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,11/02/2021,2245,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,12/02/2021,2257,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,14/02/2021,2258,Number,15/02/2021
+Health,COVID-19,Number of cases,New Zealand,Recovered,15/02/2021,2264,Number,15/02/2021

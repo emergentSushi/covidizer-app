@@ -1,0 +1,4 @@
+default:
+  host: db
+  user: sa
+  password: sa

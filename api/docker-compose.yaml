@@ -1,0 +1,29 @@
+version: '3.8' 
+
+services:
+  db:
+    container_name: db
+    restart: unless-stopped
+    image: postgres:14.0
+    environment:
+      POSTGRES_USER: sa
+      POSTGRES_PASSWORD: sa #very secure
+      POSTGRES_DB: covid_stats
+    ports:
+      - "5432:5432"
+    volumes:
+      - type: bind
+        source: ./db_volume
+        target: /var/lib/postgresql/data/
+  
+  app:
+    container_name: app
+    restart: always
+    image: node:alpine3.12
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - "80:5000"
+
+

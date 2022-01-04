@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "csv-parse": "^4.16.3",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "get-stream": "^6.0.1",
+    "graphql": "^15.7.2",
+    "moment": "^2.29.1",
+    "node-yaml-config": "^1.0.0",
+    "pg": "^8.7.1",
+    "postgraphile": "^4.12.5",
+    "postgraphile-plugin-connection-filter": "^2.2.2"
+  },
+  "scripts": {
+    "recreate-dev-db": "node preload-db.js"
+  }
+}
